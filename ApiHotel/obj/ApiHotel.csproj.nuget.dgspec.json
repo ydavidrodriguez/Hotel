@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\ApiHotel\\ApiHotel\\ApiHotel.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\Hotel\\ApiHotel\\ApiHotel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\ApiHotel\\ApiHotel\\ApiHotel.csproj": {
+    "C:\\Users\\USER\\source\\repos\\Hotel\\ApiHotel\\ApiHotel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\ApiHotel\\ApiHotel\\ApiHotel.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Hotel\\ApiHotel\\ApiHotel.csproj",
         "projectName": "ApiHotel",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\ApiHotel\\ApiHotel\\ApiHotel.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\Hotel\\ApiHotel\\ApiHotel.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\ApiHotel\\ApiHotel\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\Hotel\\ApiHotel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

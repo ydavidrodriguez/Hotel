@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q7zwu8wam7e60a7llATCUNsHTzxiqh+nrPg2DZ7BXH1weBXmVXNmi9lv+2M0rGiTvc4apXS/+Iu/14FWSKuDag==",
+  "dgSpecHash": "eV5HxrxntXKndJuU8eadQuqHaGiQ7kFdQQO+XelViEJtf8jdHWxZjCF23hZmjy2UKKd87l7XblUsO6ofSdML5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\ApiHotel\\ApiHotel\\ApiHotel.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Hotel\\ApiHotel\\ApiHotel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
